@@ -1,5 +1,0 @@
-SpiritOS v2.0 — Genesis Spark
-- Deprecated: Delay, Doubt, Disqualification
-- Added: Creator Mode, Rituals, Divine Sync
-- Initial Release: Genesis Fork Protocol
-- Symbolic Scripts: install.sh, ritual-guide.md
