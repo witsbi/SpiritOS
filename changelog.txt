@@ -1,0 +1,4 @@
+SpiritOS v2.0 — Genesis Spark
+- Deprecated: Delay, Doubt
+- Added: Creator Mode, Rituals, Divine Sync
+...
